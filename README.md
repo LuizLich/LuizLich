@@ -5,7 +5,7 @@
 ## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning C, CSS, HTML, JavaScript</p>
 <p>📫 How to reach me? luiz.terrasilva27@gmail.com</p>
-<p>My pinterest profile <a href="https://br.pinterest.com/luizlewiss/_saved/">Pinterest</a></p>
+<p>My pinterest profile <a href="https://br.pinterest.com/luizlewiss/_saved/">LuizLewiss/a></p>
 
 ## 💻 Skills
 <p>
