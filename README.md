@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://i.pinimg.com/564x/4d/dc/9c/4ddc9c9f024b83635558565346a68aef.jpg" alt="my banner">
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning C, CSS, HTML, JavaScript</p>
 <p>📫 How to reach me? luiz.terrasilva27@gmail.com</p>
-<p>All of my projects are available at <a href="https://br.pinterest.com/luizlewiss/_saved/">Pinterest</a></p>
+<p>My pinterest profile <a href="https://br.pinterest.com/luizlewiss/_saved/">Pinterest</a></p>
 
 ## 💻 Skills
 <p>
