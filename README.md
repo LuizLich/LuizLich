@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Luiz Felipe T.S
 
-<img width="100%" src="https://i.pinimg.com/564x/4d/dc/9c/4ddc9c9f024b83635558565346a68aef.jpg" alt="my banner">
+<img width="100%" src="https://i.pinimg.com/originals/1e/3d/06/1e3d067ee7054dd7d392d52c3317cc39.jpg" alt="my banner">
 
 ## 💫 Little Bit More About Me
 <p>🌱 I'm currently learning C, CSS, HTML, JavaScript</p>
