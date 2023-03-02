@@ -30,6 +30,6 @@
 <a href = 'https://www.instagram.com/luiz.lewiss/'> <img width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-icon-suzem-limited-make-known-20.png"/></a>
 <a href = 'https://www.linkedin.com/in/luiz-felipe-terra-da-silva/'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/179/179330.png"/></a> 
 <a href = 'https://br.pinterest.com/luizlewiss/_saved/'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/145/145808.png"/></a> 
-<a href = 'https://www.twitter.com/https://twitter.com/TheLuizLewiss'> <img width = '32px' align= 'center' src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/></a> 
+<a href = 'https://twitter.com/theluizlewiss'> <img width = '32px' align= 'center' src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/></a> 
 
 <p>📫 Email: luiz.terrasilva27@gmail.com</p>
