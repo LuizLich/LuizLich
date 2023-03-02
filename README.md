@@ -7,8 +7,8 @@
 
 ## 💫 Little Bit More About Me
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-  
+<img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/ff/74/a0/ff74a001f897327fca6d80adffa5b55c.gif" />
+
 - 🔭 I’m currently uploading my College/ personal projects here on Github;
 
 - 🌱 I’m currently learning C, HTML, CSS, JavaScript, Python and database; <br>
