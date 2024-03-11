@@ -23,7 +23,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizLich&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizLich&theme=github_dark)
 
-<h2>👥 Connect with me 🫱🏻‍🫲🏻 </h2>
+<h2>👥 Connect with me </h2>
 
 <a href="https://discord.com/channels/@LuizLich#5096"><img img width = '32px' align= 'center' src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png"></a>
 <a href = 'https://www.github.com/LuizLich'> <img width = '32px' align= 'center' src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg"/></a>
