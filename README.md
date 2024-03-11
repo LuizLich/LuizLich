@@ -12,8 +12,7 @@
 - 🔭 I’m currently uploading my College/ personal projects here on Github;
 
 - 🌱 I’m currently learning C, HTML, CSS, JavaScript, Python and database; <br>
-
-
+<br><br>
 
 <h2>💻 Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/LuizLich?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> 
