@@ -3,7 +3,7 @@
 <h1>Hello, Fellow < Developers / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 </p>
-<div size='20px'> Hi! My name is Luiz Felipe Terra da Silva. I am 20 years old and I am currently in the 6° period in Computer Science at PUC Minas in Poços de Caldas and Procurement Intern at Alcoa. <br> I have an interest in technology-related areas. I am willing to learn new things and apply my knowledge and skills. <img src = "https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width = 28px height=28px></div> <br>
+<div size='20px'> Hi! My name is Luiz Felipe Terra da Silva. I am in the 7° period in Computer Science at PUC Minas in Poços de Caldas and Procurement Intern at Alcoa. <br> I have an interest in technology-related areas. I am willing to learn new things and apply my knowledge and skills. <img src = "https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width = 28px height=28px></div> <br>
 
 ## 💫 Little Bit More About Me
 
@@ -11,16 +11,13 @@
 
 - 🔭 I’m currently uploading my College/ personal projects here on Github;
 
-- 🌱 I’m currently learning C, HTML, CSS, JavaScript, Python and database; <br>
+- 🌱 I’m currently learning C, HTML, CSS, JavaScript, Python, Flask and database; <br>
 <br><br>
 
 <h2>💻 Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/LuizLich?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> 
-<a href= https://github.com/LuizLich?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> 
-<a href= https://github.com/LuizLich?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> 
-<a href= https://github.com/LuizLich?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> 
-<a href= https://github.com/LuizLich?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> <br><br>
-  
+
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,python,flask,bootstrap,mysql)](https://skillicons.dev)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizLich&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizLich&theme=github_dark)
 
