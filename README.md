@@ -3,7 +3,7 @@
 <h1>Hello, Fellow < Developers / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 </p>
-<div size='20px'> Hi! My name is Luiz Felipe Terra da Silva. I am in the 7° period in Computer Science at PUC Minas in Poços de Caldas and Procurement Intern at Alcoa. <br> I have an interest in technology-related areas. I am willing to learn new things and apply my knowledge and skills. <img src = "https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width = 28px height=28px></div> <br>
+<div size='20px'> Hi! My name is Luiz Felipe Terra da Silva. I am in the 8° period in Computer Science at PUC Minas in Poços de Caldas and Procurement Intern at Alcoa. <br> I have an interest in technology-related areas. I am willing to learn new things and apply my knowledge and skills. <img src = "https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif" width = 28px height=28px></div> <br>
 
 ## 💫 Little Bit More About Me
 
